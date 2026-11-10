@@ -9,6 +9,7 @@ Always Free VM (Ubuntu 24.04, ARM).
 - Data refresh: every 60 seconds from Yahoo Finance (may be delayed)
 
 Live demo: https://giannis-markets.duckdns.org
+   ![Dashboard screenshot](Screenshot%20From%202026-11-10%2014-14-45.png)
 
 ## Run locally
     python3 -m venv venv
